@@ -23,5 +23,10 @@
     <td>You just made a bruh moment, something strange or a weird threat</td>
     <td>Say "kek" or **die**. Mrmagicpie: o h</td>
   </tr>
+  <tr>
+    <td>honey</td>
+    <td>You've just said something weird, crazy, or totally off-topic</td>
+    <td>I like to eat baby's. Mrmagicpie: yourname, honey.</td>
+  </tr>
 
 </table>
