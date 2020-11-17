@@ -22,6 +22,6 @@
     <td>o h</td>
     <td>You just made a bruh moment, something strange or a weird threat</td>
     <td>Say "kek" or **die**. Mrmagicpie: o h</td>
-
+  </tr>
 
 </table>
